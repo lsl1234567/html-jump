@@ -29,13 +29,14 @@
   　</p>
 </form><p align="center">
 
-  <br/>你可以在这里找到关于安徽科技学院的一切<br />
-  　
-  如：安徽科技学院的录取分数线等
+  <br />你可以在这里找到关于安徽科技学院的一切<br />
+  　<br />进行登录官方网站进行相关信息的查询<br />
+  如：安徽科技学院的录取分数线
        安徽科技学院的教务系统等<br /><br />
   <a style="text-decoration: none" href="http://www.ahstu.edu.cn/">
     如果你的页面没有跳转
   <font color="#FF0000">请点这里</font></a>.</p>
+
 </body>
 </html>
 
